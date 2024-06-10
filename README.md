@@ -38,7 +38,7 @@ The Image Converter project is a Java-based desktop application that allows user
 ## File Structure
 
 ```
-Image-Converter-java/
+image-converter/
 ├── src/
 │   └── main/
 │       └── java/
