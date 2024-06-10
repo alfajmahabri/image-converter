@@ -22,7 +22,7 @@ The Image Converter project is a Java-based desktop application that allows user
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Image-Converter-java
+   cd image-converter
    ```
 3. Download the dependencies:
    ```xml
