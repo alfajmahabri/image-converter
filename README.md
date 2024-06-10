@@ -1,7 +1,7 @@
 # Image Converter
 
 ## Overview
-This project is an image converter implemented in Java. It allows users to convert images from one format to another.
+The Image Converter project is a Java-based desktop application that allows users to convert images from various formats to JPEG, PNG, GIF, BMP, and PDF. Users can either provide an image URL or select files from their device to convert.
 
 ## Features
 - Converts images from Local & URL
@@ -18,7 +18,7 @@ This project is an image converter implemented in Java. It allows users to conve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/atharv0825/Image-Converter-java.git
+   git clone https://github.com/alfajmahabri/image-converter.git
    ```
 2. Navigate to the project directory:
    ```bash
